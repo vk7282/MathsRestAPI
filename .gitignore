@@ -1,0 +1,11 @@
+# Idea files
+.idea
+*.iml
+# test cache
+.pytest*
+# logs
+logs/
+# coverage report or files
+.coverage
+# virtual environment
+venv/
